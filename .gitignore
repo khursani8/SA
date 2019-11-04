@@ -2,3 +2,4 @@ data
 train_class
 *.onnx
 *.pt
+*.ipynb_check*
